@@ -1,2 +1,2 @@
-# hotel
-hotel website and hotel management
+# ehospital
+hospital management
